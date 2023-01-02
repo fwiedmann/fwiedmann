@@ -1,1 +1,1 @@
-![madeira](./madeira-east-point.jpeg)
+![coffee](./coffee.JPG)
